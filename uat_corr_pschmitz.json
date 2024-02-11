@@ -1,0 +1,8 @@
+{
+    "keyId": "12/23/1983",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nUGxlYXNlIGJlIHBhdGllbnQsIEltIHN0aWxsIGxlYXJuaW5n\n-----END PRIVATE KEY-----",
+    "name": "pschmitz",
+    "organization": "correspondents/00000000-0000-0000-0000-000000000001",
+    "type": "serviceAccount"
+}
+
